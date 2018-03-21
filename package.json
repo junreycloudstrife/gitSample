@@ -1,0 +1,19 @@
+{
+  "name": "gitsample",
+  "version": "1.0.0",
+  "description": "This project is used for exploring the git commands!",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junreycloudstrife/gitSample.git"
+  },
+  "author": "Jun Rey Ansing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/junreycloudstrife/gitSample/issues"
+  },
+  "homepage": "https://github.com/junreycloudstrife/gitSample#readme"
+}
