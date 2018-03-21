@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/junreycloudstrife/gitSample/issues"
   },
-  "homepage": "https://github.com/junreycloudstrife/gitSample#readme"
+  "homepage": "https://github.com/junreycloudstrife/gitSample#readme",
+  "dependencies": {
+    "keypress": "^0.2.1"
+  }
 }
