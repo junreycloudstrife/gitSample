@@ -1,3 +1,5 @@
+// This file includes several samples of getting user inputs
+
 var ask = require('./getInput');
 
 // // Asking for name and email sample
@@ -37,7 +39,7 @@ var ask = require('./getInput');
 // })
 
 // Give two words and find the long prefix
-ask.getInput("First Word: ", function(firstWord){
+ask.getInput("First Word : ", function(firstWord){
 	ask.getInput("Second Word: ", function(secondWord){
 		// console.log(firstWord + secondWord);
 		var i = 0;
