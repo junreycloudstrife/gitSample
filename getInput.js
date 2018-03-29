@@ -1,3 +1,7 @@
+// This getInput function will display the question and then
+// ask the users for the answer. Once the user enters the 
+// answer will then callback to an external function with the
+// answer provided by the user
 module.exports = {
 	getInput: function(question, callback) {
 		var stdin = process.stdin;
